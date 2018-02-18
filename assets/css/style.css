@@ -118,9 +118,11 @@ h4 {
 bottomborder {
     background-color: #4aaaa5;
     height: 10px;
+    position: absolute;
     left: 0;
     right:0;
     width: 100%;
+    bottom: 40px;
 }
 
 footer {
