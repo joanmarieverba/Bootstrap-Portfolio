@@ -68,17 +68,35 @@ nav ul {
     padding: 0;
 }
 
-header h1 {
-    margin-left: 100px;
+.navbar {
+    background-color: #ffffff;
+    width: 100%;
+    margin-right: 0px;
+    padding-right: 0px;
+    right: 0;
+    position: fixed;
+ 
+}
+
+.navbar-text {
+    margin-left: 40px;
     border: 1px solid #000;
     text-align: center;
     background-color: #4aaaa5;
     color: #ffffff;
+    font-family: 'Georgia', serif;
+    font-size: 20px;
+    font-weight: bold;
     width: 200px;
     height: 50px;
     top: 0;
     margin-top: 0;
-    padding: 0;
+    margin-bottom: 0;
+    padding-top: 8px;
+}
+
+.container {
+    padding-top: 75px;
 }
 
 h1 {
