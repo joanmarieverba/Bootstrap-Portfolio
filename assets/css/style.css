@@ -70,7 +70,7 @@ nav ul {
 
 .navbar {
     background-color: #ffffff;
-    width: 100%;
+    width: 100%; 
     margin-right: 0px;
     padding-right: 0px;
     right: 0;
@@ -153,6 +153,21 @@ footer {
     position: relative;
     width: 100%;
     bottom: 0;
+}
+
+otherfooter {
+    background-color: #666666;
+    color: #dddddd;
+    font-size: 12px;
+    text-align: center;
+    height: 40px;
+    padding-top: 10px;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    margin-right: 0px;
+    padding-right: 0px;
+    right: 0;
 }
 
 .button {
