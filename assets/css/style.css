@@ -177,27 +177,12 @@ div.item {
     margin-right: 140px;
     position: relative;
 }
-/*
-.caption {
-    background-color: #4aaaa5;
-    height: 30px;
-    margin-top: 115px;
-    margin-left: 15px;
-    padding-left: 30px;
-    padding-top: 15px;
-    padding-right: 20px;
-    text-align: center;
-    color: white;
-    width: 200px;
-    position: absolute;
-    z-index: 100;
-} */
 
 .caption {
   background-color: #4aaaa5;
   height: 30px;
   position: relative;
-  margin-top: -100px;
+  margin-top: -60px;
   margin-left: 0px;
   color: #ffffff;
   text-align: center;
@@ -205,5 +190,10 @@ div.item {
 }
 
 .rowspace {
-    padding-bottom: 30px:
+    margin-top: 60px;
+}
+
+.imgsize img {
+    height: 150px;
+    width: 250px;
 }
