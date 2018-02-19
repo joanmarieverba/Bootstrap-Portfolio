@@ -25,13 +25,13 @@ li {
 a {
     font-size: 18px;
 }
-
+/*
 nav ul {
     top: 0;
     right: 0px;
     position: absolute;
 }
-
+*/
 .leftbox {
     width: 100%;
     border: 1px solid #000;
@@ -125,11 +125,11 @@ h4 {
 }
 
 .boxwidth {
-  width: 550px;
+  width: 50vw;
 }
 
 .msgbox {
-  width: 550px;
+  width: 50vw;
   height: 130px;
 }
 
